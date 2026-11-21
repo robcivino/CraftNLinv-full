@@ -11,6 +11,7 @@ CRAFT. Two self contained programs, no dependencies, and the three library files
 - `classify.c`, C. The classification that enumerates all cell separable invariant
   sequences of period dividing four and produces the library files.
 - `p1.txt`, `p2.txt`, `p4_120.txt`, the library files (see below).
+- `example_run.txt`, a sample run of the attack on one key (see below).
 - `README.md`, this file.
 
 ## Build
