@@ -1,0 +1,130 @@
+
+loaded 38271 sequences from p4_120.txt
+library: 38271 sequences (period 1/2/4), codimension of the largest class 1
+
+==================== key 0 ====================
+  secret key generated (the attack below never reads this line):
+    K0 = 86f686bbf5db5422
+    K1 = e4af81320529be22
+  searching the library for sequences this key satisfies ...
+  + 00050005 00050005 00050005 00050005  codim 4  guessed  4 bits  queries 2^5.6  -> known rank 8
+  - 05000500 05000500 05000500 05000500  failed (codim 4, 4 unknown relations)
+  - 00500055 50005000 00500055 50005000  failed (codim 4, 4 unknown relations)
+  - 50005000 00500055 50005000 00500055  failed (codim 4, 4 unknown relations)
+  - 00050055 00050055 00050055 00050055  failed (codim 8, 4 unknown relations)
+  - 000a000a 000f000f 000a000a 000f000f  failed (codim 8, 4 unknown relations)
+  - 000f000f 000a000a 000f000f 000a000a  failed (codim 8, 4 unknown relations)
+  - 05050505 05050505 05050505 05050505  failed (codim 8, 4 unknown relations)
+  - 00050055 50055055 00050055 50055055  failed (codim 8, 4 unknown relations)
+  - 50055055 00050055 50055055 00050055  failed (codim 8, 4 unknown relations)
+  - 00550055 50055005 00550055 50055005  failed (codim 8, 4 unknown relations)
+  - 50055005 00550055 50055005 00550055  failed (codim 8, 4 unknown relations)
+  - 50005055 50555050 50005055 50555050  failed (codim 10, 10 unknown relations)
+  - 50505055 50505050 50505055 50505050  failed (codim 12, 12 unknown relations)
+  - 50505055 50555050 50505055 50555050  failed (codim 12, 12 unknown relations)
+  - 00500050 50005000 00500050 50005000  failed (codim 2, 2 unknown relations)
+  - 50005000 00500050 50005000 00500050  failed (codim 2, 2 unknown relations)
+  - 05000500 05005500 05000500 05005500  failed (codim 4, 4 unknown relations)
+  - 05005500 05000500 05005500 05000500  failed (codim 4, 4 unknown relations)
+  - 00500051 50005000 00500051 50005000  failed (codim 4, 4 unknown relations)
+  - 00500054 50005000 00500054 50005000  failed (codim 4, 4 unknown relations)
+  - 00500055 50005500 00500055 50005500  failed (codim 4, 4 unknown relations)
+  - 50005000 00500051 50005000 00500051  failed (codim 4, 4 unknown relations)
+  - 50005000 00500054 50005000 00500054  failed (codim 4, 4 unknown relations)
+  - 50005500 00500055 50005500 00500055  failed (codim 4, 4 unknown relations)
+  - 05005500 05005500 05005500 05005500  failed (codim 6, 6 unknown relations)
+  - 05050505 05055505 05050505 05055505  failed (codim 8, 4 unknown relations)
+  - 05055505 05050505 05055505 05050505  failed (codim 8, 4 unknown relations)
+  - 00550055 50055505 00550055 50055505  failed (codim 8, 4 unknown relations)
+  - 50055505 00550055 50055505 00550055  failed (codim 8, 4 unknown relations)
+  - 50505050 50505050 50505050 50505050  failed (codim 10, 10 unknown relations)
+  - 50555050 50005055 50555050 50005055  failed (codim 10, 10 unknown relations)
+  - 50005555 50555050 50005555 50555050  failed (codim 10, 10 unknown relations)
+  - 50505050 50505055 50505050 50505055  failed (codim 12, 12 unknown relations)
+  - 50505051 50505050 50505051 50505050  failed (codim 12, 12 unknown relations)
+  - 50505054 50505050 50505054 50505050  failed (codim 12, 12 unknown relations)
+  - 50505055 50505550 50505055 50505550  failed (codim 12, 12 unknown relations)
+  - 50505555 50505050 50505555 50505050  failed (codim 12, 12 unknown relations)
+  - 50555050 50505055 50555050 50505055  failed (codim 12, 12 unknown relations)
+  - 50105055 50555050 50105055 50555050  failed (codim 12, 12 unknown relations)
+  - 50405055 50555050 50405055 50555050  failed (codim 12, 12 unknown relations)
+  - 50505055 50515050 50505055 50515050  failed (codim 12, 12 unknown relations)
+  - 50505055 50545050 50505055 50545050  failed (codim 12, 12 unknown relations)
+  - 50505055 50555550 50505055 50555550  failed (codim 12, 12 unknown relations)
+  - 50505555 50555050 50505555 50555050  failed (codim 12, 12 unknown relations)
+  - 00000099 20022002 000000cc 20022002  failed (codim 6, 5 unknown relations)
+  - 0000009c 20022002 000000c9 20022002  failed (codim 6, 5 unknown relations)
+  - 000000c9 20022002 0000009c 20022002  failed (codim 6, 5 unknown relations)
+  - 000000cc 20022002 00000099 20022002  failed (codim 6, 5 unknown relations)
+  - 00500050 50005500 00500050 50005500  failed (codim 2, 2 unknown relations)
+  - 50005500 00500050 50005500 00500050  failed (codim 2, 2 unknown relations)
+  + 05000500 05001500 05000500 05001500  codim 4  guessed  8 bits  queries 2^9.4  -> known rank 20
+  + 05001500 05000500 05001500 05000500  codim 4  guessed  4 bits  queries 2^5.5  -> known rank 24
+  - 00200022 90009000 00200022 c000c000  failed (codim 4, 4 unknown relations)
+  - 00200022 c000c000 00200022 90009000  failed (codim 4, 4 unknown relations)
+  - 00500051 50005500 00500051 50005500  failed (codim 4, 4 unknown relations)
+  - 00500054 50005500 00500054 50005500  failed (codim 4, 4 unknown relations)
+  - 00500055 50005100 00500055 50005100  failed (codim 4, 4 unknown relations)
+  - 00500055 50005400 00500055 50005400  failed (codim 4, 4 unknown relations)
+  - 50005100 00500055 50005100 00500055  failed (codim 4, 4 unknown relations)
+  - 50005400 00500055 50005400 00500055  failed (codim 4, 4 unknown relations)
+  - 50005500 00500051 50005500 00500051  failed (codim 4, 4 unknown relations)
+  - 50005500 00500054 50005500 00500054  failed (codim 4, 4 unknown relations)
+  - 90009000 00200022 c000c000 00200022  failed (codim 4, 4 unknown relations)
+  - c000c000 00200022 90009000 00200022  failed (codim 4, 4 unknown relations)
+  - 00200022 90009500 00200022 c000c500  failed (codim 4, 4 unknown relations)
+  - 00200022 c000c500 00200022 90009500  failed (codim 4, 4 unknown relations)
+  - 00500051 50005100 00500051 50005100  failed (codim 4, 4 unknown relations)
+  - 00500051 50005400 00500051 50005400  failed (codim 4, 4 unknown relations)
+  - 00500054 50005100 00500054 50005100  failed (codim 4, 4 unknown relations)
+  - 00500054 50005400 00500054 50005400  failed (codim 4, 4 unknown relations)
+  - 00900095 20002200 00c000c5 20002200  failed (codim 4, 4 unknown relations)
+  - 00900095 20002500 00c000c5 20002500  failed (codim 4, 4 unknown relations)
+  - 00a000a0 f000f000 00a000a0 f000f000  failed (codim 4, 4 unknown relations)
+  - 00c000c5 20002200 00900095 20002200  failed (codim 4, 4 unknown relations)
+  - 00c000c5 20002500 00900095 20002500  failed (codim 4, 4 unknown relations)
+  - 00f000f0 a000a000 00f000f0 a000a000  failed (codim 4, 4 unknown relations)
+  - 20002200 00900095 20002200 00c000c5  failed (codim 4, 4 unknown relations)
+  - 20002200 00c000c5 20002200 00900095  failed (codim 4, 4 unknown relations)
+  - 20002500 00900095 20002500 00c000c5  failed (codim 4, 4 unknown relations)
+  - 20002500 00c000c5 20002500 00900095  failed (codim 4, 4 unknown relations)
+  - 50005100 00500051 50005100 00500051  failed (codim 4, 4 unknown relations)
+  - 50005100 00500054 50005100 00500054  failed (codim 4, 4 unknown relations)
+  - 50005400 00500051 50005400 00500051  failed (codim 4, 4 unknown relations)
+  - 50005400 00500054 50005400 00500054  failed (codim 4, 4 unknown relations)
+  - 90009500 00200022 c000c500 00200022  failed (codim 4, 4 unknown relations)
+  - a000a000 00f000f0 a000a000 00f000f0  failed (codim 4, 4 unknown relations)
+  - c000c500 00200022 90009500 00200022  failed (codim 4, 4 unknown relations)
+  - f000f000 00a000a0 f000f000 00a000a0  failed (codim 4, 4 unknown relations)
+  - 0000005b 40024002 0000005b 40024002  failed (codim 4, 3 unknown relations)
+  - 0000005e 10021002 0000005e 10021002  failed (codim 4, 3 unknown relations)
+  - 10021002 0000005e 10021002 0000005e  failed (codim 4, 3 unknown relations)
+  - 40024002 0000005b 40024002 0000005b  failed (codim 4, 3 unknown relations)
+  - 00000012 e005e005 00000012 e005e005  failed (codim 4, 3 unknown relations)
+  - 00000042 b005b005 00000042 b005b005  failed (codim 4, 3 unknown relations)
+  - b005b005 00000042 b005b005 00000042  failed (codim 4, 3 unknown relations)
+  - e005e005 00000012 e005e005 00000012  failed (codim 4, 3 unknown relations)
+  - 00200022 90009900 00200022 c000c900  failed (codim 4, 4 unknown relations)
+  - 00200022 90009c00 00200022 c000cc00  failed (codim 4, 4 unknown relations)
+  - 00200022 c000c900 00200022 90009900  failed (codim 4, 4 unknown relations)
+  + 00200022 c000cc00 00200022 90009c00  codim 4  guessed  7 bits  queries 2^8.3  -> known rank 35
+  + 05001500 05e005e0 05001500 05e005e0  codim 4  guessed  8 bits  queries 2^9.6  -> known rank 43
+  + 05e005e0 05001500 05e005e0 05001500  codim 4  guessed  4 bits  queries 2^5.6  -> known rank 47
+  - 90009900 00200022 c000c900 00200022  failed (codim 4, 3 unknown relations)
+  - 90009c00 00200022 c000cc00 00200022  failed (codim 4, 3 unknown relations)
+  + c000c900 00200022 90009900 00200022  codim 4  guessed  7 bits  queries 2^8.1  -> known rank 54
+  + 02200220 90009c00 02200220 9000c900  codim 4  guessed  1 bits  queries 2^5.4  -> known rank 55
+  + 90009900 02200220 9000cc00 02200220  codim 4  guessed  1 bits  queries 2^5.3  -> known rank 56
+  + 0005005e 40024002 0005005e 40024002  codim 5  guessed  2 bits  queries 2^5.3  -> known rank 58
+  + 10021002 0005005b 10021002 0005005b  codim 5  guessed  2 bits  queries 2^5.5  -> known rank 60
+[OK]  key  0: recovered 60 linear bits on the low key half, queries 2^14.61, sequences tried 110 (ok 11, failed 99, skipped 725910), consistent with the true key: yes
+  key bits pinned down by the attack (* = still unknown):
+  K0: **** **** **** **** **** **** **** **** 1111 0101 1101 1011 01*1 0100 00*0 0010 
+  K1: **** **** **** **** **** **** **** **** 0000 0101 0010 1001 10*1 1110 00*0 0010 
+  remaining search to finish the key: 2^68, over the 4 unrecovered low key bits and the 64 blind high key bits, verified against a known plaintext/ciphertext pair
+==================== end key 0 ====================
+
+histogram of recovered low-key bits:
+  60 bits : 1 keys
+mean queries per key 2^14.61; knowledge consistent with the true key in 1/1 keys
+
