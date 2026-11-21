@@ -73,3 +73,12 @@ with the true key, and the size of the exhaustive search that then finishes the 
 the unrecovered low bits together with the 64 blind high bits. At the end it prints
 the average over the sample. Without `--seed` a fresh random seed is used and
 printed, so any run can be repeated.
+
+## Example run
+
+`example_run.txt` is the full console output of the attack on a single key, produced
+with
+
+```
+./craft_invattack attack --lib p4_120.txt --keys 1 --budget 16 --seed 1
+```
